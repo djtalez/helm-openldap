@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: tiredofit/self-service-password
+  repository: tenbriz/self-service-password
   tag: latest
   pullPolicy: Always
 
